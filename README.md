@@ -1,2 +1,5 @@
-# secure-ai-analytics-portal
-Professor-grade MCA project: Secure AI + Data Analytics portal
+# Secure AI Analytics Portal
+
+Professor-grade MCA project scaffold: FastAPI backend, Streamlit analytics dashboard, Dockerized with PostgreSQL.
+
+See README for instructions.
